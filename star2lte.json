@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "risingOS-v1.3.1-Damascus-RELEASE-202308300847-star2lte-VANILLA-COMMUNITY.zip",
+			"download": "",
+			"timestamp": 1693385196,
+			"md5": "95a497b963298fa28d033eac2a1ded5b",
+			"sha256": "56feb0302eb768572254c6f101b7aa715e9874120d48e223548fd57ff675f386",
+			"size": 998380704,
+			"version": "v1.3-Damascus",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
