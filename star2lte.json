@@ -1,17 +1,17 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "xThorfinnx",
+			"oem": "Samsung",
+			"device": "star2lte",
 			"filename": "risingOS-v1.3.1-Damascus-RELEASE-202308300847-star2lte-VANILLA-COMMUNITY.zip",
-			"download": "",
+			"download": "https://github.com/xthorfinnx/RisingOS_Unofficial/releases/download/RisingOS_Unofficial_star2lte/risingOS-v1.3-Dvaraka-RELEASE-202308231140-star2lte-VANILLA-COMMUNITY.zip",
 			"timestamp": 1693385196,
 			"md5": "95a497b963298fa28d033eac2a1ded5b",
 			"sha256": "56feb0302eb768572254c6f101b7aa715e9874120d48e223548fd57ff675f386",
 			"size": 998380704,
 			"version": "v1.3-Damascus",
-			"buildtype": "",
+			"buildtype": "Monthly",
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
@@ -19,10 +19,10 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"telegram": "https://t.me/exy9810",
+			"dt": "https://github.com/samsungexynos9810/device_samsung_star2lte-V2",
+			"common-dt": "https://github.com/samsungexynos9810/device_samsung_exynos9810-common-V2",
+			"kernel": "https://github.com/samsungexynos9810/kernel_samsung_exynos9810-V2"
 		}
 	]
 }
