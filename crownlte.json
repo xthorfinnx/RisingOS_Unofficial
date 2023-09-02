@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "xThorfinnx",
+        "oem": "Samsung",
+        "device": "crownlte",
+        "filename": "risingOS-v1.3.1-Damascus-RELEASE-202309020844-crownlte-VANILLA-COMMUNITY.zip",
+        "download": "https://github.com/xthorfinnx/RisingOS_Unofficial/releases/download/RisingOS_Unofficial_crownlte/risingOS-v1.3.1-Damascus-RELEASE-202309020844-crownlte-VANILLA-COMMUNITY.zip",
+        "timestamp": 1693644296,
+        "md5": "da5516ca18772e5deeeab86d43d25772",
+        "sha256": "bc0eff6ad05291ffb61c9ce1b22149fed7d8e3a56bffc6fcb225dd6eb9cbcc69",
+        "size": 956026671,
+        "version": "v1.3-Damascus",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/exy9810",
+        "dt": "https://github.com/samsungexynos9810/device_samsung_crownlte-V2",
+        "common-dt": "https://github.com/samsungexynos9810/device_samsung_exynos9810-common-V2",
+        "kernel": "https://github.com/samsungexynos9810/kernel_samsung_exynos9810-V2"
+    }
+  ]
+}
